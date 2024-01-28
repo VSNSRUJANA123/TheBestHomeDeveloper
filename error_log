@@ -1,0 +1,16 @@
+[19-Jul-2022 09:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/visnufabrics/public_html/HomeState/about.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/visnufabrics/public_html/HomeState/about.php on line 9
+[19-Jul-2022 09:44:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/visnufabrics/public_html/HomeState/about.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/visnufabrics/public_html/HomeState/about.php on line 9
+[19-Jul-2022 09:44:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/visnufabrics/public_html/HomeState/about.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/visnufabrics/public_html/HomeState/about.php on line 9
+[19-Jul-2022 09:44:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/visnufabrics/public_html/HomeState/about.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/visnufabrics/public_html/HomeState/about.php on line 9
